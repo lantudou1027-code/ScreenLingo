@@ -10,7 +10,7 @@
 
 当前版本：**0.3.2**
 
-[下载 ScreenLingo-0.3.2-macOS.zip](./ScreenLingo-0.3.2-macOS.zip)
+[下载 ScreenLingo-0.3.2-macOS.zip](https://github.com/lantudou1027-code/ScreenLingo/raw/refs/heads/main/ScreenLingo-0.3.2-macOS.zip)
 
 系统要求：macOS 15.2 或更高版本，支持 Apple Silicon 与 Intel Mac。
 
